@@ -1,2 +1,8 @@
-# vets-social-assets
-Public assets for VETS LLC social media posts (images for Buffer)
+# VETS Social Assets
+
+Public images for Buffer social posts.
+
+- team-review.jpg
+- launch-control.jpg
+- engineers-collab.jpg
+- veteran-engineer.jpg
